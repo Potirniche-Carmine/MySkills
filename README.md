@@ -26,5 +26,5 @@ The Go skill covers package and interface design, value and aliasing semantics, 
 Install with the [skills CLI](https://github.com/vercel-labs/skills):
 
 ```sh
-npx skills add Potirniche-Carmine/MySkills
+npx skills add Potirniche-Carmine/Skills
 ```
