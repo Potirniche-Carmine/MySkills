@@ -15,8 +15,11 @@ Each skill keeps its core guidance concise and places specialized detail in focu
 | Skill | Description |
 | --- | --- |
 | [Rust Engineering](skills/rust-engineering/SKILL.md) | Repository-aware guidance for writing, refactoring, debugging, reviewing, and optimizing Rust. |
+| [Go Engineering](skills/go-engineering/SKILL.md) | Repository-aware guidance for writing, refactoring, debugging, reviewing, and optimizing Go. |
 
 The Rust skill covers ownership and borrowing, API design and invariants, allocation and algorithm costs, errors and resource lifecycles, concurrency and async correctness, input and representation boundaries, unsafe and FFI contracts, Cargo features, and risk-directed verification.
+
+The Go skill covers package and interface design, value and aliasing semantics, goroutine and context lifecycles, bounded concurrency, I/O and error contracts, allocation and retention, garbage collection, unsafe and cgo boundaries, module graphs, and risk-directed verification.
 
 ## Install
 
